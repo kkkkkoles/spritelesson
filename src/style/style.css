@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+    font-family: 'nunito';
     font-weight: 600;
     font-size: 40px;
     line-height: 52px;
@@ -42,7 +43,7 @@ p {
     padding-left: 136px;
 }
 
-.header .container {
+.header {
     border-bottom: 1px solid #EFEEF3;
 }
 
