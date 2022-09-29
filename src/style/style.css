@@ -15,7 +15,6 @@ h1 {
     font-size: 40px;
     line-height: 52px;
     letter-spacing: 0.2px;
-    padding-bottom: 40px;
 }
 
 h2 {
@@ -40,7 +39,6 @@ p {
     width: 100%;
     display: block;
     padding: 22px 0;
-    padding-left: 136px;
 }
 
 .header {
@@ -52,7 +50,6 @@ p {
     font-size: 16px;
     line-height: 21px;
     color: #7690A8;
-    padding: 0 0 15px;
 }
 
 .hero-section {
@@ -120,7 +117,7 @@ p {
     background-position: -188px -76px;
 }
 
-.text-holder {
+.text-holder p {
     font-weight: 400;
     font-size: 16px;
     line-height: 28px;
@@ -201,4 +198,5 @@ p {
     flex-wrap: wrap;
     gap: 10px;
     list-style: none;
+    margin: 0 0 0 -40px;
 }
